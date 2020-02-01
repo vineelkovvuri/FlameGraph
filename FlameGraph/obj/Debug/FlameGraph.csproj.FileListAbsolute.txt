@@ -1,0 +1,6 @@
+C:\Users\vineelko\source\repos\FlameGraph\FlameGraph\bin\Debug\FlameGraph.exe.config
+C:\Users\vineelko\source\repos\FlameGraph\FlameGraph\bin\Debug\FlameGraph.exe
+C:\Users\vineelko\source\repos\FlameGraph\FlameGraph\bin\Debug\FlameGraph.pdb
+C:\Users\vineelko\source\repos\FlameGraph\FlameGraph\obj\Debug\FlameGraph.csprojAssemblyReference.cache
+C:\Users\vineelko\source\repos\FlameGraph\FlameGraph\obj\Debug\FlameGraph.exe
+C:\Users\vineelko\source\repos\FlameGraph\FlameGraph\obj\Debug\FlameGraph.pdb
